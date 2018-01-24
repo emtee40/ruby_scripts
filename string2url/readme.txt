@@ -1,0 +1,1 @@
+A short ruby script to simply take 2 inputs,  one the url of a website, the second is a link name.  It then places these, along with the correct components for a url link in a webpage. e.g <a href="http://www.site.com">site link</a>
