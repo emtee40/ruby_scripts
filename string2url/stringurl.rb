@@ -1,6 +1,6 @@
 #  stringurl.rb
 #  
-#  Copyright 2018 Paul Sutton <psutton@desktop>
+#  Copyright 2018 Paul Sutton <zleap@zleap.net>>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
