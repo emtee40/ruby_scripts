@@ -32,5 +32,5 @@ z = "</a>"
 
 
 #print output
-print x + w + url + w + y + name + z
+puts x + w + url.downcase + w + y + name.downcase + z
 
