@@ -24,13 +24,24 @@ puts "enter url (inc http)"
 url = gets.chomp
 puts "enter link name"
 name = gets.chomp
-#set up other bits
+#set up url components
 w = '"'
 x = "<a herf="
 y = ">"
 z = "</a>"
 
 
-#print output
+
+#puts output and covert the user input to lower case letters. 
 puts x + w + url.downcase + w + y + name.downcase + z
 
+# Minimal html required for webpage
+#<!DOCTYPE html>
+#<html>
+#  <head>
+#    <body>
+#  	<title>TITLE HERE</title>
+#      <h1>TEXT HERE</h1>
+#      </body>
+#  </head>
+#</html>
